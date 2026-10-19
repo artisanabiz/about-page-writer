@@ -23,7 +23,7 @@ Use public or approved business information. Your chosen AI application processe
 
 ## Version and validation
 
-Prepared version **v0.7.5**, based on v0.7.4 with revised owner-input, team and FAQ guidance and final Irina recommendations. This preparation is not yet a published repository or release. File structure, internal references and archive contents have been checked. A guided Romanian example in Codex was reviewed by the owner; this is not independent testing or a completed compatibility test in every application listed in the installation guides. No rankings, traffic, AI citations or recommendations are guaranteed.
+Version **v0.7.5**, based on v0.7.4 with revised owner-input, team and FAQ guidance and final Irina recommendations. Published through the [official GitHub repository](https://github.com/artisanabiz/about-page-writer) and [v0.7.5 release](https://github.com/artisanabiz/about-page-writer/releases/tag/v0.7.5). File structure, internal references and archive contents have been checked. A guided Romanian example in Codex was reviewed by the owner; this is not independent testing or a completed compatibility test in every application listed in the installation guides. No rankings, traffic, AI citations or recommendations are guaranteed.
 
 ## Use terms
 
